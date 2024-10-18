@@ -1,0 +1,2 @@
+SUCCESS # hajó létrehozása
+FAIL #torpedo kilövése

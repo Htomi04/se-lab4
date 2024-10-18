@@ -1,0 +1,4 @@
+#csak a masodik torpedobol lő ki és végül elfogy
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

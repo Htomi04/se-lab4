@@ -1,0 +1,3 @@
+#csak a masodik torpedobol lő ki
+GT4500,0,0,1,0
+TORPEDO,SINGLE
